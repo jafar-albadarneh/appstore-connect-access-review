@@ -42,6 +42,9 @@ The tool analyzes several critical risk factors:
    ```
 5. Copy the response and save it as a JSON file
 
+Screenshot:
+![How to get your App Store Connect users export](assets/how-to.png)
+
 ## 📋 Requirements and Installation
 
 - Python 3.7+
