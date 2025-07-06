@@ -174,6 +174,8 @@ if 'current_page' not in st.session_state or st.session_state.current_page == "W
         5. Copy the response and save it as a JSON file
         6. Upload the JSON file here
         """)
+        # Add image of the network tab
+        st.image("assets/how-to.png")
     
     uploaded_file = st.file_uploader("📁 Upload JSON file", type=["json"])
     if uploaded_file is not None:
